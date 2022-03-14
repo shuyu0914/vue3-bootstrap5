@@ -1,4 +1,4 @@
-# vue3-demo
+# vue3 with vue-route & bootstrap5
 
 ## Project setup
 ```
